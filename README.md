@@ -6,6 +6,11 @@
 - 🎶 I play guitar and I love to sing
 - 💫 I'm creative and easy to get enthusiastic
 - 🔥 I love to learn new things!
+- <details>
+  <summary>Contact me</summary>
+  <img alt="Discord" width="16px" style="display: inline; margin-right: 10px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" /> <a href="https://discordapp.com/users/692459595150524537/">anniaka#0574</a>
+</details>
+
 <!--
 **snikkii/snikkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
