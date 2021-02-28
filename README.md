@@ -2,7 +2,7 @@
 
 ## about me
 
-- 👩🏽‍💻 I´m currently studying media informatics at [OTH-AW](https://www.oth-aw.de) in Amberg
+- 👩🏽‍💻 I´m currently studying computer science at [OTH-AW](https://www.oth-aw.de) in Amberg
 - 🎶 I play guitar and I love to sing
 - 💫 I'm creative and easy to get enthusiastic
 - 🔥 I love to learn new things!
